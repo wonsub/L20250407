@@ -131,7 +131,6 @@ void Print()
 	cout << PlayerScore << endl;
 		
 
-
 	cout << endl;
 
 	if(ComputerScore >= 21)
